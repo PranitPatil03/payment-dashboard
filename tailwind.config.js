@@ -7,7 +7,7 @@ export default {
       white: "#ffffff",
       grey: "#808080",
       lightGrey: "#e5e5e5",
-      optionsBg:"#373A53"
+      optionsBg: "#373A53",
     },
     extend: {},
   },
