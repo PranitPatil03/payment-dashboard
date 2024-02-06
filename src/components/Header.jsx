@@ -4,7 +4,7 @@ import menu from "../assets/Menu.svg";
 
 const Header = () => {
   return (
-    <div className="flex items-center justify-between px-6 py-3 shadow-sm border-b z-1">
+    <div className="flex items-center justify-between px-6 py-3 shadow-sm border-b border-lightGrey/95 z-1">
       <div className="flex gap-3 md:gap-5 items-center">
         <button className="sm:hidden">
           <svg
@@ -22,7 +22,7 @@ const Header = () => {
             />
           </svg>
         </button>
-        <h1 className="text-xl text-black font-semibold">Payouts</h1>
+        <h1 className="text-xl text-black font-normal">Payouts</h1>
         <div className="flex gap-1 items-center">
           <img src={help} className="w-4 h-4 text-current" />
           <p className="hidden md:block text-sm font-normal text-current">
