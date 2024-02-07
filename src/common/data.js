@@ -48,3 +48,96 @@ export const options = [
     icon: "bolt",
   },
 ];
+
+export const tableData = [
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+  {
+    orderId: "#281209",
+    date: "7 July, 2023",
+    orderAmount: "₹1,278.23",
+    fee: "₹22",
+  },
+];

@@ -8,6 +8,7 @@ export default {
       grey: "#808080",
       lightGrey: "#e5e5e5",
       optionsBg: "#373A53",
+      orderIdColor:"#146EB4"
     },
     extend: {},
   },

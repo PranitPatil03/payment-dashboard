@@ -21,7 +21,7 @@ const Sidebar = () => {
         </div>
       </div>
 
-      <div className="font-mono gap-3 mt-[-8rem]">
+      <div className="font-mono gap-3 mt-[-4rem] 2xl:mt-[-8rem]">
         {options.map((option, i) => {
           return (
             <div
