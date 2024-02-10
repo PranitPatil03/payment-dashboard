@@ -8,7 +8,7 @@ const Transactions = () => {
         <p className="text-[25px] font-bold font-mono">
           Transactions | This Month
         </p>
-        <div className="flex flex-col justify-between px-3 py-2 border border-lightGrey/95 rounded-md">
+        <div className="flex flex-col justify-between px-3 py-2 border border-lightGrey/95 rounded-md overflow-scroll">
           <div className="flex flex-row justify-between">
             <div className="flex flex-row">
               <div className="relative md:w-[170px] lg:w-[250px]">

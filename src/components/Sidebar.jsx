@@ -3,7 +3,7 @@ import { options } from "../common/data";
 
 const Sidebar = () => {
   return (
-    <div className="flex flex-col h-screen flex-[0.1] max-md:hidden bg-sidebarBg px-5 py-3 justify-between">
+    <div className="flex flex-col h-full flex-[0.1] max-md:hidden bg-sidebarBg px-5 py-3 justify-between">
       <div className="relative flex gap-6">
         <div className=" bg-white w-[39px] h-[39px] m-[0.5px] rounded-[4px] relative">
           <img src={SidebarImage} className="object-cover object-center" />

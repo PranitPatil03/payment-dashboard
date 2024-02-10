@@ -4,7 +4,7 @@ import Transactions from "./Transactions";
 
 const Main = () => {
   return (
-    <div className="flex flex-col h-screen flex-[0.9] max-md:flex-1">
+    <div className="flex flex-col  h-screen flex-[0.9] max-md:flex-1 ">
       <Header></Header>
       <OverView></OverView>
       <Transactions></Transactions>
